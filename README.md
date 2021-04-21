@@ -5,15 +5,12 @@
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 ](https://www.linkedin.com/in/leonboers/) [<img alt="EMail" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white%22"/>
 ](mailto:leonboers@gmail.com) [<img alt="3fifty" src="https://img.shields.io/badge/3fifty%20-%23009FE3.svg?&style=for-the-badge&logo=Workplace&logoColor=white"/>](https://www.3fifty.eu)
-<br>
 
 ### Working with
 
 ---
 
-<img alt="Powershell" src="https://img.shields.io/badge/Powershell%20-%230276BD.svg?&style=for-the-badge&logo=Powershell&logoColor=white"/>  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> <img alt="Terraform" src="https://img.shields.io/badge/terraform%20-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/> <img alt="DevOps" src="https://img.shields.io/badge/Azure DevOps%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
-
-<br>
+[<img alt="Powershell" src="https://img.shields.io/badge/Powershell%20-%230276BD.svg?&style=for-the-badge&logo=Powershell&logoColor=white"/>](https://github.com/LeonB87/Powershell)  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> <img alt="Terraform" src="https://img.shields.io/badge/terraform%20-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/> <img alt="DevOps" src="https://img.shields.io/badge/Azure DevOps%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
 
 ### Platforms
 
