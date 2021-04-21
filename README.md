@@ -6,7 +6,7 @@
 ](https://www.linkedin.com/in/leonboers/) [<img alt="EMail" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white%22"/>
 ](mailto:leonboers@gmail.com) [<img alt="3fifty" src="https://img.shields.io/badge/3fifty%20-%23009FE3.svg?&style=for-the-badge&logo=Workplace&logoColor=white"/>](https://www.3fifty.eu)
 
-### Working with
+### Love working with
 
 ---
 
