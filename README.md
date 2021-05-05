@@ -3,13 +3,6 @@ Hi!
 Welcome to my Github page. 
 I'm a Cloud Consultant / DevOps Engineer at 3fifty based in The Netherlands.
 
-### Contact
-
----
-
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-](https://www.linkedin.com/in/leonboers/) [<img alt="EMail" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white%22"/>
-](mailto:leonboers@gmail.com) [<img alt="3fifty" src="https://img.shields.io/badge/3fifty%20-%23009FE3.svg?&style=for-the-badge&logo=Workplace&logoColor=white"/>](https://www.3fifty.eu)
 
 ## Coding with
 <p>
@@ -23,6 +16,13 @@ I'm a Cloud Consultant / DevOps Engineer at 3fifty based in The Netherlands.
 <p>
 <img alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=flat-square&logo=microsoft-azure&logoColor=white"/> <img alr="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white" /> <img alr="Office 365" src="https://img.shields.io/badge/Office 365-0078D4?style=flat-square&logo=microsoft-office&logoColor=white" />
 </p>
+
+## Reach me at
+
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>
+](https://www.linkedin.com/in/leonboers/) [<img alt="EMail" src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white%22"/>
+](mailto:leonboers@gmail.com) [<img alt="3fifty" src="https://img.shields.io/badge/3fifty%20-%23009FE3.svg?&style=flat-square&logo=Workplace&logoColor=white"/>](https://www.3fifty.eu)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=LeonB87.visitor-badge)
