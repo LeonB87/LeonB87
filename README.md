@@ -1,4 +1,4 @@
-Hi!
+Hi! 😃
 
 Welcome to my Github page. 
 I'm a Cloud Consultant / DevOps Engineer at 3fifty based in The Netherlands.
